@@ -29,7 +29,7 @@ The dataset used in this project is available in the repository at:
 
 ```
 
-**## Directory Architecture**
+## **Directory Architecture**
 
 ```
 supermarket_analytics/
