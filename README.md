@@ -28,7 +28,8 @@ The dataset used in this project is available in the repository at:
 - **Source:** [Kaggle Supermarket Sales Dataset] https://www.kaggle.com/datasets/tunguz/online-retail-ii
 
 ```
-## Directory Architecture
+
+**## Directory Architecture**
 
 ```
 supermarket_analytics/
